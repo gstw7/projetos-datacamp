@@ -1,4 +1,3 @@
-[![](https://styleguide-assets.datacamp.com/images/marketing/components/icons/datacamp-16696cea09.svg)](https://www.datacamp.com/profile/gstmelo)
 [![](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg)](https://www.linkedin.com/in/gustavo-de-melo-oliveira)
 
 # Repositório Projetos | Datacamp
@@ -17,3 +16,6 @@ DataCamp é uma plataforma que oferece cursos interativos de R, Python, Sheets, 
 2. TV, Halftime Shows, and the Big Game;
 3. The Android App Market on Google Play;
 4. The GitHub History of the Scala Language.
+
+
+[![](https://styleguide-assets.datacamp.com/images/marketing/components/icons/datacamp-16696cea09.svg)](https://www.datacamp.com/profile/gstmelo)
