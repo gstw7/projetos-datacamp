@@ -3,6 +3,7 @@
 # Repositório Projetos | Datacamp
 
 - [1. Sobre o Datacamp](#1-sobre-o-datacamp)
+- [2. Projetos Adicionados](#2-projetos-adicionados)
 
 
 ## 1. Sobre o Datacamp
