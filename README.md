@@ -1,4 +1,5 @@
 [![](https://styleguide-assets.datacamp.com/images/marketing/components/icons/datacamp-16696cea09.svg)](https://www.datacamp.com/profile/gstmelo)
+[![](https://image.flaticon.com/icons/svg/174/174857.svg)](https://www.linkedin.com/in/gustavo-de-melo-oliveira)
 
 # Repositório Projetos | Datacamp
 
